@@ -15,6 +15,7 @@ Feel free to reach out! It's always fun to meet new people:
 | :--- | :--- | :--- |
 | [The Lilabean Foundation Dashboard Tool](https://github.com/cfgcolumbus25/Team-17) | An AI-powered impact dashboard that automates personalized donor engagement and research data visualization for The Lilabean Foundation. | React.js, TailwindCSS, TypeScript, Python, MongoDB, GeminiAPI
 | [Fit4U](https://github.com/Yabsram/Fit4U) | Personalized fitness and nutrition web app. | HTML/CSS, JavaScript, Python, Flask, SQLite, GeminiAPI
+| [AutoGit](https://github.com/MatVit2910/Auto-Git) | CLI automation tool. | Python, GeminiAPI
 | [Piazza 2](https://github.com/avalenzo1/Sparkhacks) | Remake of the forum website Piazza. | React, TailwindCSS, Python, JavaScript, Django
 | [Ecuadorian Culture App](https://github.com/MatVit2910/Ecuadorian-Culture-App-Class-Project) | My very first project, a Python program about the culture of Ecuador! | Python, Turtle Graphics
 
