@@ -1,4 +1,4 @@
-# Hello person reading this 🤝
+# Hello, person reading this 🤝
 My name is **Mateo Viteri**, and I'm a Computer Science student at the University of Illinois Chicago (graduating May 2027) with a passion for learning, building, and solving problems through technology. Ever since my first contact with computers and video games, I've been fascinated by the role of software in our daily lives, which has driven my interest in building meaningful programs that could benefit many people. I thrive in fast-paced environments, adapt quickly to new tools and challenges, and love diving into new topics. 
 
 Now, I am living the dream of studying what I like, participating in hackathons and tech events, traveling, and developing projects to improve my skills as a Software Engineer. As I continue my education and career development, I hope to take advantage of any opportunities that arise and eventually bring my skills to a company whose values align with mine. 
